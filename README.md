@@ -1,4 +1,4 @@
-![banner image](https://github.com/kye-taylor/kye-taylor/blob/master/git_banner.png)
+![banner image](https://github.com/kye-taylor/kye-taylor/blob/master/gh_banner.png)
 
 Hey! Im a University student currently learning Computer Science.
 <!--
