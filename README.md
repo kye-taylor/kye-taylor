@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![banner image](https://github.com/kye-taylor/kye-taylor/blob/master/git_banner.png)
+## Hey!
 <!--
 **kye-taylor/kye-taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
