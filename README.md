@@ -1,6 +1,7 @@
 ![banner image](https://github.com/kye-taylor/kye-taylor/blob/master/gh_banner.png)
 
 Hey! 👋
+
 🌱 I’m currently learning C#
 <!--
 **kye-taylor/kye-taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
